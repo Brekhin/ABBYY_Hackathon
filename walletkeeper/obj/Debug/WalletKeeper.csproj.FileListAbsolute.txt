@@ -1,0 +1,252 @@
+C:\Users\Polina\Desktop\Result\WalletKeeper-master\WalletKeeper\obj\Debug\WalletKeeper.csprojResolveAssemblyReference.cache
+C:\Users\Polina\Desktop\Result\WalletKeeper-master\WalletKeeper\bin\Debug\WalletKeeper.exe.config
+C:\Users\Polina\Desktop\Result\WalletKeeper-master\WalletKeeper\bin\Debug\WalletKeeper.exe
+C:\Users\Polina\Desktop\Result\WalletKeeper-master\WalletKeeper\bin\Debug\WalletKeeper.pdb
+C:\Users\Polina\Desktop\Result\WalletKeeper-master\WalletKeeper\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Polina\Desktop\Result\WalletKeeper-master\WalletKeeper\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\Polina\Desktop\Result\WalletKeeper-master\WalletKeeper\bin\Debug\Telegram.Bot.dll
+C:\Users\Polina\Desktop\Result\WalletKeeper-master\WalletKeeper\bin\Debug\TextDetectionSample.exe
+C:\Users\Polina\Desktop\Result\WalletKeeper-master\WalletKeeper\bin\Debug\Google.Apis.Vision.v1.dll
+C:\Users\Polina\Desktop\Result\WalletKeeper-master\WalletKeeper\bin\Debug\Google.Apis.Auth.PlatformServices.dll
+C:\Users\Polina\Desktop\Result\WalletKeeper-master\WalletKeeper\bin\Debug\Google.Apis.dll
+C:\Users\Polina\Desktop\Result\WalletKeeper-master\WalletKeeper\bin\Debug\Google.Apis.Core.dll
+C:\Users\Polina\Desktop\Result\WalletKeeper-master\WalletKeeper\bin\Debug\Google.Apis.Auth.dll
+C:\Users\Polina\Desktop\Result\WalletKeeper-master\WalletKeeper\bin\Debug\Google.Apis.PlatformServices.dll
+C:\Users\Polina\Desktop\Result\WalletKeeper-master\WalletKeeper\bin\Debug\TextDetectionSample.pdb
+C:\Users\Polina\Desktop\Result\WalletKeeper-master\WalletKeeper\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Polina\Desktop\Result\WalletKeeper-master\WalletKeeper\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\Polina\Desktop\Result\WalletKeeper-master\WalletKeeper\bin\Debug\Telegram.Bot.xml
+C:\Users\Polina\Desktop\Result\WalletKeeper-master\WalletKeeper\bin\Debug\Google.Apis.pdb
+C:\Users\Polina\Desktop\Result\WalletKeeper-master\WalletKeeper\bin\Debug\Google.Apis.xml
+C:\Users\Polina\Desktop\Result\WalletKeeper-master\WalletKeeper\bin\Debug\Google.Apis.Auth.pdb
+C:\Users\Polina\Desktop\Result\WalletKeeper-master\WalletKeeper\bin\Debug\Google.Apis.Auth.xml
+C:\Users\Polina\Desktop\Result\WalletKeeper-master\WalletKeeper\bin\Debug\Google.Apis.PlatformServices.pdb
+C:\Users\Polina\Desktop\Result\WalletKeeper-master\WalletKeeper\bin\Debug\Google.Apis.PlatformServices.xml
+C:\Users\Polina\Desktop\Result\WalletKeeper-master\WalletKeeper\obj\Debug\WalletKeeper.exe
+C:\Users\Polina\Desktop\Result\WalletKeeper-master\WalletKeeper\obj\Debug\WalletKeeper.pdb
+C:\Users\Polina\Desktop\Result\WalletKeeper-master\WalletKeeper\bin\Debug\DataBase.exe
+C:\Users\Polina\Desktop\Result\WalletKeeper-master\WalletKeeper\bin\Debug\DataBase.pdb
+C:\Users\Polina\Desktop\Новая папка\Result\WalletKeeper-master\WalletKeeper\bin\Debug\WalletKeeper.exe.config
+C:\Users\Polina\Desktop\Новая папка\Result\WalletKeeper-master\WalletKeeper\obj\Debug\WalletKeeper.exe
+C:\Users\Polina\Desktop\Новая папка\Result\WalletKeeper-master\WalletKeeper\obj\Debug\WalletKeeper.pdb
+C:\Users\Polina\Desktop\Новая папка\Result\WalletKeeper-master\WalletKeeper\bin\Debug\WalletKeeper.exe
+C:\Users\Polina\Desktop\Новая папка\Result\WalletKeeper-master\WalletKeeper\bin\Debug\WalletKeeper.pdb
+C:\Users\Polina\Desktop\Новая папка\Result\WalletKeeper-master\WalletKeeper\bin\Debug\DataBase.exe
+C:\Users\Polina\Desktop\Новая папка\Result\WalletKeeper-master\WalletKeeper\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Polina\Desktop\Новая папка\Result\WalletKeeper-master\WalletKeeper\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\Polina\Desktop\Новая папка\Result\WalletKeeper-master\WalletKeeper\bin\Debug\Telegram.Bot.dll
+C:\Users\Polina\Desktop\Новая папка\Result\WalletKeeper-master\WalletKeeper\bin\Debug\TextDetectionSample.exe
+C:\Users\Polina\Desktop\Новая папка\Result\WalletKeeper-master\WalletKeeper\bin\Debug\Google.Apis.Vision.v1.dll
+C:\Users\Polina\Desktop\Новая папка\Result\WalletKeeper-master\WalletKeeper\bin\Debug\Google.Apis.Auth.PlatformServices.dll
+C:\Users\Polina\Desktop\Новая папка\Result\WalletKeeper-master\WalletKeeper\bin\Debug\Google.Apis.dll
+C:\Users\Polina\Desktop\Новая папка\Result\WalletKeeper-master\WalletKeeper\bin\Debug\Google.Apis.Core.dll
+C:\Users\Polina\Desktop\Новая папка\Result\WalletKeeper-master\WalletKeeper\bin\Debug\Google.Apis.Auth.dll
+C:\Users\Polina\Desktop\Новая папка\Result\WalletKeeper-master\WalletKeeper\bin\Debug\Google.Apis.PlatformServices.dll
+C:\Users\Polina\Desktop\Новая папка\Result\WalletKeeper-master\WalletKeeper\bin\Debug\DataBase.pdb
+C:\Users\Polina\Desktop\Новая папка\Result\WalletKeeper-master\WalletKeeper\bin\Debug\TextDetectionSample.pdb
+C:\Users\Polina\Desktop\Новая папка\Result\WalletKeeper-master\WalletKeeper\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Polina\Desktop\Новая папка\Result\WalletKeeper-master\WalletKeeper\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\Polina\Desktop\Новая папка\Result\WalletKeeper-master\WalletKeeper\bin\Debug\Telegram.Bot.xml
+C:\Users\Polina\Desktop\Новая папка\Result\WalletKeeper-master\WalletKeeper\bin\Debug\Google.Apis.pdb
+C:\Users\Polina\Desktop\Новая папка\Result\WalletKeeper-master\WalletKeeper\bin\Debug\Google.Apis.xml
+C:\Users\Polina\Desktop\Новая папка\Result\WalletKeeper-master\WalletKeeper\bin\Debug\Google.Apis.Auth.pdb
+C:\Users\Polina\Desktop\Новая папка\Result\WalletKeeper-master\WalletKeeper\bin\Debug\Google.Apis.Auth.xml
+C:\Users\Polina\Desktop\Новая папка\Result\WalletKeeper-master\WalletKeeper\bin\Debug\Google.Apis.PlatformServices.pdb
+C:\Users\Polina\Desktop\Новая папка\Result\WalletKeeper-master\WalletKeeper\bin\Debug\Google.Apis.PlatformServices.xml
+C:\Users\Polina\Desktop\Новая папка\Result\WalletKeeper-master\WalletKeeper\obj\Debug\WalletKeeper.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\Result\WalletKeeper-master\WalletKeeper\bin\Debug\WalletKeeper.exe.config
+C:\Users\user\Desktop\Result\WalletKeeper-master\WalletKeeper\obj\Debug\WalletKeeper.exe
+C:\Users\user\Desktop\Result\WalletKeeper-master\WalletKeeper\obj\Debug\WalletKeeper.pdb
+C:\Users\user\Desktop\Result\WalletKeeper-master\WalletKeeper\obj\Debug\WalletKeeper.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\Result\WalletKeeper-master\WalletKeeper\bin\Debug\WalletKeeper.exe
+C:\Users\user\Desktop\Result\WalletKeeper-master\WalletKeeper\bin\Debug\WalletKeeper.pdb
+C:\Users\user\Desktop\Result\WalletKeeper-master\WalletKeeper\bin\Debug\DataBase.exe
+C:\Users\user\Desktop\Result\WalletKeeper-master\WalletKeeper\bin\Debug\Newtonsoft.Json.dll
+C:\Users\user\Desktop\Result\WalletKeeper-master\WalletKeeper\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\user\Desktop\Result\WalletKeeper-master\WalletKeeper\bin\Debug\Telegram.Bot.dll
+C:\Users\user\Desktop\Result\WalletKeeper-master\WalletKeeper\bin\Debug\TextDetectionSample.exe
+C:\Users\user\Desktop\Result\WalletKeeper-master\WalletKeeper\bin\Debug\Google.Apis.Vision.v1.dll
+C:\Users\user\Desktop\Result\WalletKeeper-master\WalletKeeper\bin\Debug\Google.Apis.Auth.PlatformServices.dll
+C:\Users\user\Desktop\Result\WalletKeeper-master\WalletKeeper\bin\Debug\Google.Apis.dll
+C:\Users\user\Desktop\Result\WalletKeeper-master\WalletKeeper\bin\Debug\Google.Apis.Core.dll
+C:\Users\user\Desktop\Result\WalletKeeper-master\WalletKeeper\bin\Debug\Google.Apis.Auth.dll
+C:\Users\user\Desktop\Result\WalletKeeper-master\WalletKeeper\bin\Debug\Google.Apis.PlatformServices.dll
+C:\Users\user\Desktop\Result\WalletKeeper-master\WalletKeeper\bin\Debug\DataBase.pdb
+C:\Users\user\Desktop\Result\WalletKeeper-master\WalletKeeper\bin\Debug\TextDetectionSample.pdb
+C:\Users\user\Desktop\Result\WalletKeeper-master\WalletKeeper\bin\Debug\Newtonsoft.Json.xml
+C:\Users\user\Desktop\Result\WalletKeeper-master\WalletKeeper\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\user\Desktop\Result\WalletKeeper-master\WalletKeeper\bin\Debug\Telegram.Bot.xml
+C:\Users\user\Desktop\Result\WalletKeeper-master\WalletKeeper\bin\Debug\Google.Apis.pdb
+C:\Users\user\Desktop\Result\WalletKeeper-master\WalletKeeper\bin\Debug\Google.Apis.xml
+C:\Users\user\Desktop\Result\WalletKeeper-master\WalletKeeper\bin\Debug\Google.Apis.Auth.pdb
+C:\Users\user\Desktop\Result\WalletKeeper-master\WalletKeeper\bin\Debug\Google.Apis.Auth.xml
+C:\Users\user\Desktop\Result\WalletKeeper-master\WalletKeeper\bin\Debug\Google.Apis.PlatformServices.pdb
+C:\Users\user\Desktop\Result\WalletKeeper-master\WalletKeeper\bin\Debug\Google.Apis.PlatformServices.xml
+C:\Users\user\Desktop\ResultA\WalletKeeper-master\WalletKeeper\bin\Debug\WalletKeeper.exe.config
+C:\Users\user\Desktop\ResultA\WalletKeeper-master\WalletKeeper\obj\Debug\WalletKeeper.exe
+C:\Users\user\Desktop\ResultA\WalletKeeper-master\WalletKeeper\obj\Debug\WalletKeeper.pdb
+C:\Users\user\Desktop\ResultA\WalletKeeper-master\WalletKeeper\obj\Debug\WalletKeeper.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\ResultA\WalletKeeper-master\WalletKeeper\bin\Debug\WalletKeeper.exe
+C:\Users\user\Desktop\ResultA\WalletKeeper-master\WalletKeeper\bin\Debug\WalletKeeper.pdb
+C:\Users\user\Desktop\ResultA\WalletKeeper-master\WalletKeeper\bin\Debug\DataBase.exe
+C:\Users\user\Desktop\ResultA\WalletKeeper-master\WalletKeeper\bin\Debug\Newtonsoft.Json.dll
+C:\Users\user\Desktop\ResultA\WalletKeeper-master\WalletKeeper\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\user\Desktop\ResultA\WalletKeeper-master\WalletKeeper\bin\Debug\Telegram.Bot.dll
+C:\Users\user\Desktop\ResultA\WalletKeeper-master\WalletKeeper\bin\Debug\TextDetectionSample.exe
+C:\Users\user\Desktop\ResultA\WalletKeeper-master\WalletKeeper\bin\Debug\Google.Apis.Vision.v1.dll
+C:\Users\user\Desktop\ResultA\WalletKeeper-master\WalletKeeper\bin\Debug\Google.Apis.Auth.PlatformServices.dll
+C:\Users\user\Desktop\ResultA\WalletKeeper-master\WalletKeeper\bin\Debug\Google.Apis.dll
+C:\Users\user\Desktop\ResultA\WalletKeeper-master\WalletKeeper\bin\Debug\Google.Apis.Core.dll
+C:\Users\user\Desktop\ResultA\WalletKeeper-master\WalletKeeper\bin\Debug\Google.Apis.Auth.dll
+C:\Users\user\Desktop\ResultA\WalletKeeper-master\WalletKeeper\bin\Debug\Google.Apis.PlatformServices.dll
+C:\Users\user\Desktop\ResultA\WalletKeeper-master\WalletKeeper\bin\Debug\DataBase.pdb
+C:\Users\user\Desktop\ResultA\WalletKeeper-master\WalletKeeper\bin\Debug\TextDetectionSample.pdb
+C:\Users\user\Desktop\ResultA\WalletKeeper-master\WalletKeeper\bin\Debug\Newtonsoft.Json.xml
+C:\Users\user\Desktop\ResultA\WalletKeeper-master\WalletKeeper\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\user\Desktop\ResultA\WalletKeeper-master\WalletKeeper\bin\Debug\Telegram.Bot.xml
+C:\Users\user\Desktop\ResultA\WalletKeeper-master\WalletKeeper\bin\Debug\Google.Apis.pdb
+C:\Users\user\Desktop\ResultA\WalletKeeper-master\WalletKeeper\bin\Debug\Google.Apis.xml
+C:\Users\user\Desktop\ResultA\WalletKeeper-master\WalletKeeper\bin\Debug\Google.Apis.Auth.pdb
+C:\Users\user\Desktop\ResultA\WalletKeeper-master\WalletKeeper\bin\Debug\Google.Apis.Auth.xml
+C:\Users\user\Desktop\ResultA\WalletKeeper-master\WalletKeeper\bin\Debug\Google.Apis.PlatformServices.pdb
+C:\Users\user\Desktop\ResultA\WalletKeeper-master\WalletKeeper\bin\Debug\Google.Apis.PlatformServices.xml
+C:\Users\user\Source\Repos\WalletKeeper9\WalletKeeper\bin\Debug\WalletKeeper.exe.config
+C:\Users\user\Source\Repos\WalletKeeper9\WalletKeeper\obj\Debug\WalletKeeper.exe
+C:\Users\user\Source\Repos\WalletKeeper9\WalletKeeper\obj\Debug\WalletKeeper.pdb
+C:\Users\user\Source\Repos\WalletKeeper9\WalletKeeper\bin\Debug\WalletKeeper.exe
+C:\Users\user\Source\Repos\WalletKeeper9\WalletKeeper\bin\Debug\WalletKeeper.pdb
+C:\Users\user\Source\Repos\WalletKeeper9\WalletKeeper\bin\Debug\DataBase.exe
+C:\Users\user\Source\Repos\WalletKeeper9\WalletKeeper\bin\Debug\Newtonsoft.Json.dll
+C:\Users\user\Source\Repos\WalletKeeper9\WalletKeeper\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\user\Source\Repos\WalletKeeper9\WalletKeeper\bin\Debug\Telegram.Bot.dll
+C:\Users\user\Source\Repos\WalletKeeper9\WalletKeeper\bin\Debug\TextDetectionSample.exe
+C:\Users\user\Source\Repos\WalletKeeper9\WalletKeeper\bin\Debug\Google.Apis.Vision.v1.dll
+C:\Users\user\Source\Repos\WalletKeeper9\WalletKeeper\bin\Debug\Google.Apis.Auth.PlatformServices.dll
+C:\Users\user\Source\Repos\WalletKeeper9\WalletKeeper\bin\Debug\Google.Apis.dll
+C:\Users\user\Source\Repos\WalletKeeper9\WalletKeeper\bin\Debug\Google.Apis.Core.dll
+C:\Users\user\Source\Repos\WalletKeeper9\WalletKeeper\bin\Debug\Google.Apis.Auth.dll
+C:\Users\user\Source\Repos\WalletKeeper9\WalletKeeper\bin\Debug\Google.Apis.PlatformServices.dll
+C:\Users\user\Source\Repos\WalletKeeper9\WalletKeeper\bin\Debug\DataBase.pdb
+C:\Users\user\Source\Repos\WalletKeeper9\WalletKeeper\bin\Debug\TextDetectionSample.pdb
+C:\Users\user\Source\Repos\WalletKeeper9\WalletKeeper\bin\Debug\Newtonsoft.Json.xml
+C:\Users\user\Source\Repos\WalletKeeper9\WalletKeeper\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\user\Source\Repos\WalletKeeper9\WalletKeeper\bin\Debug\Telegram.Bot.xml
+C:\Users\user\Source\Repos\WalletKeeper9\WalletKeeper\bin\Debug\Google.Apis.pdb
+C:\Users\user\Source\Repos\WalletKeeper9\WalletKeeper\bin\Debug\Google.Apis.xml
+C:\Users\user\Source\Repos\WalletKeeper9\WalletKeeper\bin\Debug\Google.Apis.Auth.pdb
+C:\Users\user\Source\Repos\WalletKeeper9\WalletKeeper\bin\Debug\Google.Apis.Auth.xml
+C:\Users\user\Source\Repos\WalletKeeper9\WalletKeeper\bin\Debug\Google.Apis.PlatformServices.pdb
+C:\Users\user\Source\Repos\WalletKeeper9\WalletKeeper\bin\Debug\Google.Apis.PlatformServices.xml
+C:\Users\user\Source\Repos\WalletKeeper9\WalletKeeper\obj\Debug\WalletKeeper.csprojResolveAssemblyReference.cache
+C:\Users\user\Source\Repos\WalletKeeper10\WalletKeeper\bin\Debug\WalletKeeper.exe.config
+C:\Users\user\Source\Repos\WalletKeeper10\WalletKeeper\obj\Debug\WalletKeeper.exe
+C:\Users\user\Source\Repos\WalletKeeper10\WalletKeeper\obj\Debug\WalletKeeper.pdb
+C:\Users\user\Source\Repos\WalletKeeper10\WalletKeeper\bin\Debug\WalletKeeper.exe
+C:\Users\user\Source\Repos\WalletKeeper10\WalletKeeper\bin\Debug\WalletKeeper.pdb
+C:\Users\user\Source\Repos\WalletKeeper10\WalletKeeper\bin\Debug\DataBase.exe
+C:\Users\user\Source\Repos\WalletKeeper10\WalletKeeper\bin\Debug\Newtonsoft.Json.dll
+C:\Users\user\Source\Repos\WalletKeeper10\WalletKeeper\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\user\Source\Repos\WalletKeeper10\WalletKeeper\bin\Debug\Telegram.Bot.dll
+C:\Users\user\Source\Repos\WalletKeeper10\WalletKeeper\bin\Debug\TextDetectionSample.exe
+C:\Users\user\Source\Repos\WalletKeeper10\WalletKeeper\bin\Debug\Google.Apis.Vision.v1.dll
+C:\Users\user\Source\Repos\WalletKeeper10\WalletKeeper\bin\Debug\Google.Apis.Auth.PlatformServices.dll
+C:\Users\user\Source\Repos\WalletKeeper10\WalletKeeper\bin\Debug\Google.Apis.dll
+C:\Users\user\Source\Repos\WalletKeeper10\WalletKeeper\bin\Debug\Google.Apis.Core.dll
+C:\Users\user\Source\Repos\WalletKeeper10\WalletKeeper\bin\Debug\Google.Apis.Auth.dll
+C:\Users\user\Source\Repos\WalletKeeper10\WalletKeeper\bin\Debug\Google.Apis.PlatformServices.dll
+C:\Users\user\Source\Repos\WalletKeeper10\WalletKeeper\bin\Debug\DataBase.pdb
+C:\Users\user\Source\Repos\WalletKeeper10\WalletKeeper\bin\Debug\TextDetectionSample.pdb
+C:\Users\user\Source\Repos\WalletKeeper10\WalletKeeper\bin\Debug\Newtonsoft.Json.xml
+C:\Users\user\Source\Repos\WalletKeeper10\WalletKeeper\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\user\Source\Repos\WalletKeeper10\WalletKeeper\bin\Debug\Telegram.Bot.xml
+C:\Users\user\Source\Repos\WalletKeeper10\WalletKeeper\bin\Debug\Google.Apis.pdb
+C:\Users\user\Source\Repos\WalletKeeper10\WalletKeeper\bin\Debug\Google.Apis.xml
+C:\Users\user\Source\Repos\WalletKeeper10\WalletKeeper\bin\Debug\Google.Apis.Auth.pdb
+C:\Users\user\Source\Repos\WalletKeeper10\WalletKeeper\bin\Debug\Google.Apis.Auth.xml
+C:\Users\user\Source\Repos\WalletKeeper10\WalletKeeper\bin\Debug\Google.Apis.PlatformServices.pdb
+C:\Users\user\Source\Repos\WalletKeeper10\WalletKeeper\bin\Debug\Google.Apis.PlatformServices.xml
+C:\Users\user\Source\Repos\WalletKeeper10\WalletKeeper\obj\Debug\WalletKeeper.csprojResolveAssemblyReference.cache
+C:\Users\Polina\Source\Repos\WalletKeeper4\WalletKeeper\bin\Debug\WalletKeeper.exe.config
+C:\Users\Polina\Source\Repos\WalletKeeper4\WalletKeeper\obj\Debug\WalletKeeper.exe
+C:\Users\Polina\Source\Repos\WalletKeeper4\WalletKeeper\obj\Debug\WalletKeeper.pdb
+C:\Users\Polina\Source\Repos\WalletKeeper4\WalletKeeper\bin\Debug\WalletKeeper.exe
+C:\Users\Polina\Source\Repos\WalletKeeper4\WalletKeeper\bin\Debug\WalletKeeper.pdb
+C:\Users\Polina\Source\Repos\WalletKeeper4\WalletKeeper\bin\Debug\DataBase.exe
+C:\Users\Polina\Source\Repos\WalletKeeper4\WalletKeeper\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Polina\Source\Repos\WalletKeeper4\WalletKeeper\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\Polina\Source\Repos\WalletKeeper4\WalletKeeper\bin\Debug\Telegram.Bot.dll
+C:\Users\Polina\Source\Repos\WalletKeeper4\WalletKeeper\bin\Debug\TextDetectionSample.exe
+C:\Users\Polina\Source\Repos\WalletKeeper4\WalletKeeper\bin\Debug\Google.Apis.Vision.v1.dll
+C:\Users\Polina\Source\Repos\WalletKeeper4\WalletKeeper\bin\Debug\Google.Apis.Auth.PlatformServices.dll
+C:\Users\Polina\Source\Repos\WalletKeeper4\WalletKeeper\bin\Debug\Google.Apis.dll
+C:\Users\Polina\Source\Repos\WalletKeeper4\WalletKeeper\bin\Debug\Google.Apis.Core.dll
+C:\Users\Polina\Source\Repos\WalletKeeper4\WalletKeeper\bin\Debug\Google.Apis.Auth.dll
+C:\Users\Polina\Source\Repos\WalletKeeper4\WalletKeeper\bin\Debug\Google.Apis.PlatformServices.dll
+C:\Users\Polina\Source\Repos\WalletKeeper4\WalletKeeper\bin\Debug\DataBase.pdb
+C:\Users\Polina\Source\Repos\WalletKeeper4\WalletKeeper\bin\Debug\TextDetectionSample.pdb
+C:\Users\Polina\Source\Repos\WalletKeeper4\WalletKeeper\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Polina\Source\Repos\WalletKeeper4\WalletKeeper\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\Polina\Source\Repos\WalletKeeper4\WalletKeeper\bin\Debug\Telegram.Bot.xml
+C:\Users\Polina\Source\Repos\WalletKeeper4\WalletKeeper\bin\Debug\Google.Apis.pdb
+C:\Users\Polina\Source\Repos\WalletKeeper4\WalletKeeper\bin\Debug\Google.Apis.xml
+C:\Users\Polina\Source\Repos\WalletKeeper4\WalletKeeper\bin\Debug\Google.Apis.Auth.pdb
+C:\Users\Polina\Source\Repos\WalletKeeper4\WalletKeeper\bin\Debug\Google.Apis.Auth.xml
+C:\Users\Polina\Source\Repos\WalletKeeper4\WalletKeeper\bin\Debug\Google.Apis.PlatformServices.pdb
+C:\Users\Polina\Source\Repos\WalletKeeper4\WalletKeeper\bin\Debug\Google.Apis.PlatformServices.xml
+C:\Users\Polina\Source\Repos\WalletKeeper4\WalletKeeper\obj\Debug\WalletKeeper.csprojResolveAssemblyReference.cache
+C:\Users\Алексей\Desktop\WalletKeeper-master\WalletKeeper\obj\Debug\WalletKeeper.csprojResolveAssemblyReference.cache
+C:\Users\Алексей\Desktop\WalletKeeper-master\WalletKeeper\bin\Debug\WalletKeeper.exe.config
+C:\Users\Алексей\Desktop\WalletKeeper-master\WalletKeeper\bin\Debug\WalletKeeper.exe.manifest
+C:\Users\Алексей\Desktop\WalletKeeper-master\WalletKeeper\bin\Debug\WalletKeeper.application
+C:\Users\Алексей\Desktop\WalletKeeper-master\WalletKeeper\bin\Debug\WalletKeeper.exe
+C:\Users\Алексей\Desktop\WalletKeeper-master\WalletKeeper\bin\Debug\WalletKeeper.pdb
+C:\Users\Алексей\Desktop\WalletKeeper-master\WalletKeeper\bin\Debug\DataBase.exe
+C:\Users\Алексей\Desktop\WalletKeeper-master\WalletKeeper\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Алексей\Desktop\WalletKeeper-master\WalletKeeper\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\Алексей\Desktop\WalletKeeper-master\WalletKeeper\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Алексей\Desktop\WalletKeeper-master\WalletKeeper\bin\Debug\Telegram.Bot.dll
+C:\Users\Алексей\Desktop\WalletKeeper-master\WalletKeeper\bin\Debug\TextDetectionSample.exe
+C:\Users\Алексей\Desktop\WalletKeeper-master\WalletKeeper\bin\Debug\DataBase.pdb
+C:\Users\Алексей\Desktop\WalletKeeper-master\WalletKeeper\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Алексей\Desktop\WalletKeeper-master\WalletKeeper\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\Алексей\Desktop\WalletKeeper-master\WalletKeeper\obj\Debug\WalletKeeper.exe.manifest
+C:\Users\Алексей\Desktop\WalletKeeper-master\WalletKeeper\obj\Debug\WalletKeeper.application
+C:\Users\Алексей\Desktop\WalletKeeper-master\WalletKeeper\obj\Debug\WalletKeeper.exe
+C:\Users\Алексей\Desktop\WalletKeeper-master\WalletKeeper\obj\Debug\WalletKeeper.pdb
+C:\Users\Алексей\Desktop\WalletKeeper-master\WalletKeeper\bin\Debug\Google.Apis.Vision.v1.dll
+C:\Users\Алексей\Desktop\WalletKeeper-master\WalletKeeper\bin\Debug\Google.Apis.Auth.dll
+C:\Users\Алексей\Desktop\WalletKeeper-master\WalletKeeper\bin\Debug\Google.Apis.dll
+C:\Users\Алексей\Desktop\WalletKeeper-master\WalletKeeper\bin\Debug\Google.Apis.Core.dll
+C:\Users\Алексей\Desktop\WalletKeeper-master\WalletKeeper\bin\Debug\TextDetectionSample.pdb
+C:\Users\Алексей\Desktop\WalletKeeper-master\WalletKeeper\bin\Debug\Google.Apis.Vision.v1.xml
+C:\Users\Алексей\Desktop\WalletKeeper-master\WalletKeeper\bin\Debug\Google.Apis.Auth.xml
+C:\Users\Алексей\Desktop\WalletKeeper-master\WalletKeeper\bin\Debug\Google.Apis.xml
+C:\Users\Алексей\Desktop\WalletKeeper-master\WalletKeeper\bin\Debug\Google.Apis.Core.xml
+C:\Users\Алексей\Desktop\telegram-bot\WalletKeeper\bin\Debug\WalletKeeper.exe.config
+C:\Users\Алексей\Desktop\telegram-bot\WalletKeeper\obj\Debug\WalletKeeper.exe
+C:\Users\Алексей\Desktop\telegram-bot\WalletKeeper\obj\Debug\WalletKeeper.pdb
+C:\Users\Алексей\Desktop\Курсач по БД\telegram-bot\WalletKeeper\bin\Debug\WalletKeeper.exe.config
+C:\Users\Алексей\Desktop\Курсач по БД\telegram-bot\WalletKeeper\bin\Debug\WalletKeeper.exe.manifest
+C:\Users\Алексей\Desktop\Курсач по БД\telegram-bot\WalletKeeper\bin\Debug\WalletKeeper.application
+C:\Users\Алексей\Desktop\Курсач по БД\telegram-bot\WalletKeeper\bin\Debug\WalletKeeper.exe
+C:\Users\Алексей\Desktop\Курсач по БД\telegram-bot\WalletKeeper\bin\Debug\WalletKeeper.pdb
+C:\Users\Алексей\Desktop\Курсач по БД\telegram-bot\WalletKeeper\bin\Debug\DataBase.exe
+C:\Users\Алексей\Desktop\Курсач по БД\telegram-bot\WalletKeeper\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Алексей\Desktop\Курсач по БД\telegram-bot\WalletKeeper\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\Алексей\Desktop\Курсач по БД\telegram-bot\WalletKeeper\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Алексей\Desktop\Курсач по БД\telegram-bot\WalletKeeper\bin\Debug\Telegram.Bot.dll
+C:\Users\Алексей\Desktop\Курсач по БД\telegram-bot\WalletKeeper\bin\Debug\TextDetectionSample.exe
+C:\Users\Алексей\Desktop\Курсач по БД\telegram-bot\WalletKeeper\bin\Debug\Npgsql.dll
+C:\Users\Алексей\Desktop\Курсач по БД\telegram-bot\WalletKeeper\bin\Debug\DataBase.pdb
+C:\Users\Алексей\Desktop\Курсач по БД\telegram-bot\WalletKeeper\bin\Debug\TextDetectionSample.pdb
+C:\Users\Алексей\Desktop\Курсач по БД\telegram-bot\WalletKeeper\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Алексей\Desktop\Курсач по БД\telegram-bot\WalletKeeper\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\Алексей\Desktop\Курсач по БД\telegram-bot\WalletKeeper\obj\Debug\WalletKeeper.csprojResolveAssemblyReference.cache
+C:\Users\Алексей\Desktop\Курсач по БД\telegram-bot\WalletKeeper\obj\Debug\WalletKeeper.exe.manifest
+C:\Users\Алексей\Desktop\Курсач по БД\telegram-bot\WalletKeeper\obj\Debug\WalletKeeper.application
+C:\Users\Алексей\Desktop\Курсач по БД\telegram-bot\WalletKeeper\obj\Debug\WalletKeeper.exe
+C:\Users\Алексей\Desktop\Курсач по БД\telegram-bot\WalletKeeper\obj\Debug\WalletKeeper.pdb
+C:\Users\Алексей\Desktop\Курсач по БД\telegram-bot\WalletKeeper\bin\Debug\SpeechLib.Models.dll
+C:\Users\Алексей\Desktop\Курсач по БД\telegram-bot\WalletKeeper\bin\Debug\SpeechLib.Recognition.dll
+C:\Users\Алексей\Desktop\Курсач по БД\telegram-bot\WalletKeeper\bin\Debug\SpeechLib.Recognition.KinectV1.dll
+C:\Users\Алексей\Desktop\Курсач по БД\telegram-bot\WalletKeeper\bin\Debug\SpeechLib.Synthesis.dll

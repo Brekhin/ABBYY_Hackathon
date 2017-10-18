@@ -1,0 +1,306 @@
+C:\Users\Polina\Desktop\WalletKeeper-master\API\vision logic\vision\textDetection\bin\Debug\TextDetectionSample.exe.config
+C:\Users\Polina\Desktop\WalletKeeper-master\API\vision logic\vision\textDetection\obj\Debug\TextDetectionSample.exe
+C:\Users\Polina\Desktop\WalletKeeper-master\API\vision logic\vision\textDetection\obj\Debug\TextDetectionSample.pdb
+C:\Users\Polina\Desktop\WalletKeeper-master\API\vision logic\vision\textDetection\bin\Debug\TextDetectionSample.exe
+C:\Users\Polina\Desktop\WalletKeeper-master\API\vision logic\vision\textDetection\bin\Debug\TextDetectionSample.pdb
+C:\Users\Polina\Desktop\WalletKeeper-master\API\vision logic\vision\textDetection\bin\Debug\TextDetectionSample.exe.CodeAnalysisLog.xml
+C:\Users\Polina\Desktop\WalletKeeper-master\API\vision logic\vision\textDetection\bin\Debug\TextDetectionSample.exe.lastcodeanalysissucceeded
+C:\Users\Polina\Desktop\WalletKeeper-master\API\vision logic\vision\textDetection\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Polina\Desktop\WalletKeeper-master\API\vision logic\vision\textDetection\bin\Debug\Google.Apis.Auth.dll
+C:\Users\Polina\Desktop\WalletKeeper-master\API\vision logic\vision\textDetection\bin\Debug\Google.Apis.Auth.PlatformServices.dll
+C:\Users\Polina\Desktop\WalletKeeper-master\API\vision logic\vision\textDetection\bin\Debug\Google.Apis.Core.dll
+C:\Users\Polina\Desktop\WalletKeeper-master\API\vision logic\vision\textDetection\bin\Debug\Google.Apis.dll
+C:\Users\Polina\Desktop\WalletKeeper-master\API\vision logic\vision\textDetection\bin\Debug\Google.Apis.PlatformServices.dll
+C:\Users\Polina\Desktop\WalletKeeper-master\API\vision logic\vision\textDetection\bin\Debug\Google.Apis.Storage.v1.dll
+C:\Users\Polina\Desktop\WalletKeeper-master\API\vision logic\vision\textDetection\bin\Debug\Google.Apis.Vision.v1.dll
+C:\Users\Polina\Desktop\WalletKeeper-master\API\vision logic\vision\textDetection\bin\Debug\log4net.dll
+C:\Users\Polina\Desktop\WalletKeeper-master\API\vision logic\vision\textDetection\bin\Debug\Microsoft.Threading.Tasks.dll
+C:\Users\Polina\Desktop\WalletKeeper-master\API\vision logic\vision\textDetection\bin\Debug\Microsoft.Threading.Tasks.Extensions.Desktop.dll
+C:\Users\Polina\Desktop\WalletKeeper-master\API\vision logic\vision\textDetection\bin\Debug\Microsoft.Threading.Tasks.Extensions.dll
+C:\Users\Polina\Desktop\WalletKeeper-master\API\vision logic\vision\textDetection\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Polina\Desktop\WalletKeeper-master\API\vision logic\vision\textDetection\bin\Debug\System.Net.Http.Extensions.dll
+C:\Users\Polina\Desktop\WalletKeeper-master\API\vision logic\vision\textDetection\bin\Debug\System.Net.Http.Primitives.dll
+C:\Users\Polina\Desktop\WalletKeeper-master\API\vision logic\vision\textDetection\bin\Debug\Zlib.Portable.dll
+C:\Users\Polina\Desktop\WalletKeeper-master\API\vision logic\vision\textDetection\bin\Debug\Google.Apis.pdb
+C:\Users\Polina\Desktop\WalletKeeper-master\API\vision logic\vision\textDetection\bin\Debug\Google.Apis.xml
+C:\Users\Polina\Desktop\WalletKeeper-master\API\vision logic\vision\textDetection\bin\Debug\Google.Apis.Auth.pdb
+C:\Users\Polina\Desktop\WalletKeeper-master\API\vision logic\vision\textDetection\bin\Debug\Google.Apis.Auth.xml
+C:\Users\Polina\Desktop\WalletKeeper-master\API\vision logic\vision\textDetection\bin\Debug\Google.Apis.Auth.PlatformServices.pdb
+C:\Users\Polina\Desktop\WalletKeeper-master\API\vision logic\vision\textDetection\bin\Debug\Google.Apis.Auth.PlatformServices.xml
+C:\Users\Polina\Desktop\WalletKeeper-master\API\vision logic\vision\textDetection\bin\Debug\Google.Apis.Core.pdb
+C:\Users\Polina\Desktop\WalletKeeper-master\API\vision logic\vision\textDetection\bin\Debug\Google.Apis.Core.xml
+C:\Users\Polina\Desktop\WalletKeeper-master\API\vision logic\vision\textDetection\bin\Debug\Google.Apis.PlatformServices.pdb
+C:\Users\Polina\Desktop\WalletKeeper-master\API\vision logic\vision\textDetection\bin\Debug\Google.Apis.PlatformServices.xml
+C:\Users\Polina\Desktop\WalletKeeper-master\API\vision logic\vision\textDetection\bin\Debug\Google.Apis.Storage.v1.pdb
+C:\Users\Polina\Desktop\WalletKeeper-master\API\vision logic\vision\textDetection\bin\Debug\Google.Apis.Storage.v1.xml
+C:\Users\Polina\Desktop\WalletKeeper-master\API\vision logic\vision\textDetection\bin\Debug\Google.Apis.Vision.v1.pdb
+C:\Users\Polina\Desktop\WalletKeeper-master\API\vision logic\vision\textDetection\bin\Debug\Google.Apis.Vision.v1.xml
+C:\Users\Polina\Desktop\WalletKeeper-master\API\vision logic\vision\textDetection\bin\Debug\log4net.xml
+C:\Users\Polina\Desktop\WalletKeeper-master\API\vision logic\vision\textDetection\bin\Debug\Microsoft.Threading.Tasks.xml
+C:\Users\Polina\Desktop\WalletKeeper-master\API\vision logic\vision\textDetection\bin\Debug\Microsoft.Threading.Tasks.Extensions.xml
+C:\Users\Polina\Desktop\WalletKeeper-master\API\vision logic\vision\textDetection\bin\Debug\Microsoft.Threading.Tasks.Extensions.Desktop.xml
+C:\Users\Polina\Desktop\WalletKeeper-master\API\vision logic\vision\textDetection\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Polina\Desktop\WalletKeeper-master\API\vision logic\vision\textDetection\bin\Debug\System.Net.Http.Extensions.xml
+C:\Users\Polina\Desktop\WalletKeeper-master\API\vision logic\vision\textDetection\bin\Debug\System.Net.Http.Primitives.xml
+C:\Users\Polina\Desktop\WalletKeeper-master\API\vision logic\vision\textDetection\bin\Debug\Zlib.Portable.xml
+C:\Users\Polina\Desktop\WalletKeeper-master\API\vision logic\vision\textDetection\obj\Debug\TextDetection.csprojResolveAssemblyReference.cache
+C:\Users\Polina\Desktop\Новая папка (2)\WalletKeeper-master\API\vision logic\vision\textDetection\bin\Debug\TextDetectionSample.exe.config
+C:\Users\Polina\Desktop\Новая папка (2)\WalletKeeper-master\API\vision logic\vision\textDetection\obj\Debug\TextDetectionSample.exe
+C:\Users\Polina\Desktop\Новая папка (2)\WalletKeeper-master\API\vision logic\vision\textDetection\obj\Debug\TextDetectionSample.pdb
+C:\Users\Polina\Desktop\Новая папка (2)\WalletKeeper-master\textDetection\bin\Debug\TextDetectionSample.exe.config
+C:\Users\Polina\Desktop\Новая папка (2)\WalletKeeper-master\textDetection\obj\Debug\TextDetectionSample.exe
+C:\Users\Polina\Desktop\Новая папка (2)\WalletKeeper-master\textDetection\obj\Debug\TextDetectionSample.pdb
+C:\Users\Polina\Desktop\LastVersion\TextDetection\bin\Debug\TextDetectionSample.exe.config
+C:\Users\Polina\Desktop\LastVersion\TextDetection\bin\Debug\TextDetectionSample.exe
+C:\Users\Polina\Desktop\LastVersion\TextDetection\bin\Debug\TextDetectionSample.pdb
+C:\Users\Polina\Desktop\LastVersion\TextDetection\bin\Debug\TextDetectionSample.exe.CodeAnalysisLog.xml
+C:\Users\Polina\Desktop\LastVersion\TextDetection\bin\Debug\TextDetectionSample.exe.lastcodeanalysissucceeded
+C:\Users\Polina\Desktop\LastVersion\TextDetection\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Polina\Desktop\LastVersion\TextDetection\bin\Debug\Google.Apis.Auth.dll
+C:\Users\Polina\Desktop\LastVersion\TextDetection\bin\Debug\Google.Apis.dll
+C:\Users\Polina\Desktop\LastVersion\TextDetection\bin\Debug\Google.Apis.PlatformServices.dll
+C:\Users\Polina\Desktop\LastVersion\TextDetection\bin\Debug\Google.Apis.pdb
+C:\Users\Polina\Desktop\LastVersion\TextDetection\bin\Debug\Google.Apis.xml
+C:\Users\Polina\Desktop\LastVersion\TextDetection\bin\Debug\Google.Apis.Auth.pdb
+C:\Users\Polina\Desktop\LastVersion\TextDetection\bin\Debug\Google.Apis.Auth.PlatformServices.pdb
+C:\Users\Polina\Desktop\LastVersion\TextDetection\bin\Debug\Google.Apis.Auth.PlatformServices.xml
+C:\Users\Polina\Desktop\LastVersion\TextDetection\bin\Debug\Google.Apis.Core.pdb
+C:\Users\Polina\Desktop\LastVersion\TextDetection\bin\Debug\Google.Apis.Core.xml
+C:\Users\Polina\Desktop\LastVersion\TextDetection\bin\Debug\Google.Apis.PlatformServices.pdb
+C:\Users\Polina\Desktop\LastVersion\TextDetection\bin\Debug\Google.Apis.PlatformServices.xml
+C:\Users\Polina\Desktop\LastVersion\TextDetection\bin\Debug\Google.Apis.Storage.v1.pdb
+C:\Users\Polina\Desktop\LastVersion\TextDetection\bin\Debug\Google.Apis.Storage.v1.xml
+C:\Users\Polina\Desktop\LastVersion\TextDetection\bin\Debug\Google.Apis.Vision.v1.pdb
+C:\Users\Polina\Desktop\LastVersion\TextDetection\bin\Debug\Google.Apis.Vision.v1.xml
+C:\Users\Polina\Desktop\LastVersion\TextDetection\bin\Debug\log4net.xml
+C:\Users\Polina\Desktop\LastVersion\TextDetection\bin\Debug\Microsoft.Threading.Tasks.xml
+C:\Users\Polina\Desktop\LastVersion\TextDetection\bin\Debug\Microsoft.Threading.Tasks.Extensions.xml
+C:\Users\Polina\Desktop\LastVersion\TextDetection\bin\Debug\Microsoft.Threading.Tasks.Extensions.Desktop.xml
+C:\Users\Polina\Desktop\LastVersion\TextDetection\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Polina\Desktop\LastVersion\TextDetection\bin\Debug\System.Net.Http.Extensions.xml
+C:\Users\Polina\Desktop\LastVersion\TextDetection\bin\Debug\System.Net.Http.Primitives.xml
+C:\Users\Polina\Desktop\LastVersion\TextDetection\bin\Debug\Zlib.Portable.xml
+C:\Users\Polina\Desktop\LastVersion\TextDetection\obj\Debug\TextDetection.csprojResolveAssemblyReference.cache
+C:\Users\Polina\Desktop\LastVersion\TextDetection\obj\Debug\TextDetectionSample.exe
+C:\Users\Polina\Desktop\LastVersion\TextDetection\obj\Debug\TextDetectionSample.pdb
+C:\Users\Polina\Desktop\LastVersion\TextDetection\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Polina\Desktop\LastVersion\TextDetection\bin\Debug\ru\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+C:\Users\Polina\Desktop\LastVersion\WalletKeeper-master\TextDetection\bin\Debug\TextDetectionSample.exe.config
+C:\Users\Polina\Desktop\LastVersion\WalletKeeper-master\TextDetection\bin\Debug\TextDetectionSample.exe
+C:\Users\Polina\Desktop\LastVersion\WalletKeeper-master\TextDetection\bin\Debug\TextDetectionSample.pdb
+C:\Users\Polina\Desktop\LastVersion\WalletKeeper-master\TextDetection\bin\Debug\TextDetectionSample.exe.CodeAnalysisLog.xml
+C:\Users\Polina\Desktop\LastVersion\WalletKeeper-master\TextDetection\bin\Debug\TextDetectionSample.exe.lastcodeanalysissucceeded
+C:\Users\Polina\Desktop\LastVersion\WalletKeeper-master\TextDetection\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Polina\Desktop\LastVersion\WalletKeeper-master\TextDetection\bin\Debug\Google.Apis.Auth.dll
+C:\Users\Polina\Desktop\LastVersion\WalletKeeper-master\TextDetection\bin\Debug\Google.Apis.dll
+C:\Users\Polina\Desktop\LastVersion\WalletKeeper-master\TextDetection\bin\Debug\Google.Apis.PlatformServices.dll
+C:\Users\Polina\Desktop\LastVersion\WalletKeeper-master\TextDetection\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Polina\Desktop\LastVersion\WalletKeeper-master\TextDetection\bin\Debug\Google.Apis.pdb
+C:\Users\Polina\Desktop\LastVersion\WalletKeeper-master\TextDetection\bin\Debug\Google.Apis.xml
+C:\Users\Polina\Desktop\LastVersion\WalletKeeper-master\TextDetection\bin\Debug\Google.Apis.Auth.pdb
+C:\Users\Polina\Desktop\LastVersion\WalletKeeper-master\TextDetection\bin\Debug\Google.Apis.PlatformServices.pdb
+C:\Users\Polina\Desktop\LastVersion\WalletKeeper-master\TextDetection\bin\Debug\Google.Apis.PlatformServices.xml
+C:\Users\Polina\Desktop\LastVersion\WalletKeeper-master\TextDetection\bin\Debug\ru\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+C:\Users\Polina\Desktop\LastVersion\WalletKeeper-master\TextDetection\obj\Debug\TextDetectionSample.exe
+C:\Users\Polina\Desktop\LastVersion\WalletKeeper-master\TextDetection\obj\Debug\TextDetectionSample.pdb
+C:\Users\Polina\Desktop\LastVersion\WalletKeeper-master\TextDetection\bin\Debug\Microsoft.VisualStudio.QualityTools.Common.dll
+C:\Users\Polina\Desktop\LastVersion\WalletKeeper-master\TextDetection\bin\Debug\Microsoft.VisualStudio.QualityTools.ExecutionCommon.dll
+C:\Users\Polina\Desktop\LastVersion\WalletKeeper-master\TextDetection\obj\Debug\TextDetection.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\Result\WalletKeeper-master\TextDetection\bin\Debug\TextDetectionSample.exe.config
+C:\Users\user\Desktop\Result\WalletKeeper-master\TextDetection\bin\Debug\TextDetectionSample.exe
+C:\Users\user\Desktop\Result\WalletKeeper-master\TextDetection\bin\Debug\TextDetectionSample.pdb
+C:\Users\user\Desktop\Result\WalletKeeper-master\TextDetection\bin\Debug\TextDetectionSample.exe.CodeAnalysisLog.xml
+C:\Users\user\Desktop\Result\WalletKeeper-master\TextDetection\bin\Debug\TextDetectionSample.exe.lastcodeanalysissucceeded
+C:\Users\user\Desktop\Result\WalletKeeper-master\TextDetection\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\user\Desktop\Result\WalletKeeper-master\TextDetection\bin\Debug\Google.Apis.Auth.dll
+C:\Users\user\Desktop\Result\WalletKeeper-master\TextDetection\bin\Debug\Google.Apis.dll
+C:\Users\user\Desktop\Result\WalletKeeper-master\TextDetection\bin\Debug\Google.Apis.PlatformServices.dll
+C:\Users\user\Desktop\Result\WalletKeeper-master\TextDetection\bin\Debug\Microsoft.VisualStudio.QualityTools.Common.dll
+C:\Users\user\Desktop\Result\WalletKeeper-master\TextDetection\bin\Debug\Microsoft.VisualStudio.QualityTools.ExecutionCommon.dll
+C:\Users\user\Desktop\Result\WalletKeeper-master\TextDetection\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\user\Desktop\Result\WalletKeeper-master\TextDetection\bin\Debug\Google.Apis.pdb
+C:\Users\user\Desktop\Result\WalletKeeper-master\TextDetection\bin\Debug\Google.Apis.xml
+C:\Users\user\Desktop\Result\WalletKeeper-master\TextDetection\bin\Debug\Google.Apis.Auth.pdb
+C:\Users\user\Desktop\Result\WalletKeeper-master\TextDetection\bin\Debug\Google.Apis.PlatformServices.pdb
+C:\Users\user\Desktop\Result\WalletKeeper-master\TextDetection\bin\Debug\Google.Apis.PlatformServices.xml
+C:\Users\user\Desktop\Result\WalletKeeper-master\TextDetection\bin\Debug\ru\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+C:\Users\user\Desktop\Result\WalletKeeper-master\TextDetection\obj\Debug\TextDetection.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\Result\WalletKeeper-master\TextDetection\obj\Debug\TextDetectionSample.exe
+C:\Users\user\Desktop\Result\WalletKeeper-master\TextDetection\obj\Debug\TextDetectionSample.pdb
+C:\Users\user\Desktop\ResultA\WalletKeeper-master\TextDetection\bin\Debug\TextDetectionSample.exe.config
+C:\Users\user\Desktop\ResultA\WalletKeeper-master\TextDetection\bin\Debug\TextDetectionSample.exe
+C:\Users\user\Desktop\ResultA\WalletKeeper-master\TextDetection\bin\Debug\TextDetectionSample.pdb
+C:\Users\user\Desktop\ResultA\WalletKeeper-master\TextDetection\bin\Debug\TextDetectionSample.exe.CodeAnalysisLog.xml
+C:\Users\user\Desktop\ResultA\WalletKeeper-master\TextDetection\bin\Debug\TextDetectionSample.exe.lastcodeanalysissucceeded
+C:\Users\user\Desktop\ResultA\WalletKeeper-master\TextDetection\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\user\Desktop\ResultA\WalletKeeper-master\TextDetection\bin\Debug\Google.Apis.Auth.dll
+C:\Users\user\Desktop\ResultA\WalletKeeper-master\TextDetection\bin\Debug\Google.Apis.dll
+C:\Users\user\Desktop\ResultA\WalletKeeper-master\TextDetection\bin\Debug\Google.Apis.PlatformServices.dll
+C:\Users\user\Desktop\ResultA\WalletKeeper-master\TextDetection\bin\Debug\Microsoft.VisualStudio.QualityTools.Common.dll
+C:\Users\user\Desktop\ResultA\WalletKeeper-master\TextDetection\bin\Debug\Microsoft.VisualStudio.QualityTools.ExecutionCommon.dll
+C:\Users\user\Desktop\ResultA\WalletKeeper-master\TextDetection\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\user\Desktop\ResultA\WalletKeeper-master\TextDetection\bin\Debug\Google.Apis.pdb
+C:\Users\user\Desktop\ResultA\WalletKeeper-master\TextDetection\bin\Debug\Google.Apis.xml
+C:\Users\user\Desktop\ResultA\WalletKeeper-master\TextDetection\bin\Debug\Google.Apis.Auth.pdb
+C:\Users\user\Desktop\ResultA\WalletKeeper-master\TextDetection\bin\Debug\Google.Apis.PlatformServices.pdb
+C:\Users\user\Desktop\ResultA\WalletKeeper-master\TextDetection\bin\Debug\Google.Apis.PlatformServices.xml
+C:\Users\user\Desktop\ResultA\WalletKeeper-master\TextDetection\bin\Debug\ru\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+C:\Users\user\Desktop\ResultA\WalletKeeper-master\TextDetection\obj\Debug\TextDetection.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\ResultA\WalletKeeper-master\TextDetection\obj\Debug\TextDetectionSample.exe
+C:\Users\user\Desktop\ResultA\WalletKeeper-master\TextDetection\obj\Debug\TextDetectionSample.pdb
+C:\Users\user\Source\Repos\WalletKeeper9\TextDetection\bin\Debug\TextDetectionSample.exe.config
+C:\Users\user\Source\Repos\WalletKeeper9\TextDetection\bin\Debug\TextDetectionSample.exe
+C:\Users\user\Source\Repos\WalletKeeper9\TextDetection\bin\Debug\TextDetectionSample.pdb
+C:\Users\user\Source\Repos\WalletKeeper9\TextDetection\bin\Debug\TextDetectionSample.exe.CodeAnalysisLog.xml
+C:\Users\user\Source\Repos\WalletKeeper9\TextDetection\bin\Debug\TextDetectionSample.exe.lastcodeanalysissucceeded
+C:\Users\user\Source\Repos\WalletKeeper9\TextDetection\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\user\Source\Repos\WalletKeeper9\TextDetection\bin\Debug\Google.Apis.Auth.dll
+C:\Users\user\Source\Repos\WalletKeeper9\TextDetection\bin\Debug\Google.Apis.dll
+C:\Users\user\Source\Repos\WalletKeeper9\TextDetection\bin\Debug\Google.Apis.PlatformServices.dll
+C:\Users\user\Source\Repos\WalletKeeper9\TextDetection\bin\Debug\Microsoft.VisualStudio.QualityTools.Common.dll
+C:\Users\user\Source\Repos\WalletKeeper9\TextDetection\bin\Debug\Microsoft.VisualStudio.QualityTools.ExecutionCommon.dll
+C:\Users\user\Source\Repos\WalletKeeper9\TextDetection\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\user\Source\Repos\WalletKeeper9\TextDetection\bin\Debug\Google.Apis.pdb
+C:\Users\user\Source\Repos\WalletKeeper9\TextDetection\bin\Debug\Google.Apis.xml
+C:\Users\user\Source\Repos\WalletKeeper9\TextDetection\bin\Debug\Google.Apis.Auth.pdb
+C:\Users\user\Source\Repos\WalletKeeper9\TextDetection\bin\Debug\Google.Apis.PlatformServices.pdb
+C:\Users\user\Source\Repos\WalletKeeper9\TextDetection\bin\Debug\Google.Apis.PlatformServices.xml
+C:\Users\user\Source\Repos\WalletKeeper9\TextDetection\bin\Debug\ru\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+C:\Users\user\Source\Repos\WalletKeeper9\TextDetection\obj\Debug\TextDetection.csprojResolveAssemblyReference.cache
+C:\Users\user\Source\Repos\WalletKeeper9\TextDetection\obj\Debug\TextDetectionSample.exe
+C:\Users\user\Source\Repos\WalletKeeper9\TextDetection\obj\Debug\TextDetectionSample.pdb
+C:\Users\user\Source\Repos\WalletKeeper10\TextDetection\bin\Debug\TextDetectionSample.exe.config
+C:\Users\user\Source\Repos\WalletKeeper10\TextDetection\bin\Debug\TextDetectionSample.exe
+C:\Users\user\Source\Repos\WalletKeeper10\TextDetection\bin\Debug\TextDetectionSample.pdb
+C:\Users\user\Source\Repos\WalletKeeper10\TextDetection\bin\Debug\TextDetectionSample.exe.CodeAnalysisLog.xml
+C:\Users\user\Source\Repos\WalletKeeper10\TextDetection\bin\Debug\TextDetectionSample.exe.lastcodeanalysissucceeded
+C:\Users\user\Source\Repos\WalletKeeper10\TextDetection\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\user\Source\Repos\WalletKeeper10\TextDetection\bin\Debug\Google.Apis.Auth.dll
+C:\Users\user\Source\Repos\WalletKeeper10\TextDetection\bin\Debug\Google.Apis.dll
+C:\Users\user\Source\Repos\WalletKeeper10\TextDetection\bin\Debug\Google.Apis.PlatformServices.dll
+C:\Users\user\Source\Repos\WalletKeeper10\TextDetection\bin\Debug\Microsoft.VisualStudio.QualityTools.Common.dll
+C:\Users\user\Source\Repos\WalletKeeper10\TextDetection\bin\Debug\Microsoft.VisualStudio.QualityTools.ExecutionCommon.dll
+C:\Users\user\Source\Repos\WalletKeeper10\TextDetection\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\user\Source\Repos\WalletKeeper10\TextDetection\bin\Debug\Google.Apis.pdb
+C:\Users\user\Source\Repos\WalletKeeper10\TextDetection\bin\Debug\Google.Apis.xml
+C:\Users\user\Source\Repos\WalletKeeper10\TextDetection\bin\Debug\Google.Apis.Auth.pdb
+C:\Users\user\Source\Repos\WalletKeeper10\TextDetection\bin\Debug\Google.Apis.PlatformServices.pdb
+C:\Users\user\Source\Repos\WalletKeeper10\TextDetection\bin\Debug\Google.Apis.PlatformServices.xml
+C:\Users\user\Source\Repos\WalletKeeper10\TextDetection\bin\Debug\ru\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+C:\Users\user\Source\Repos\WalletKeeper10\TextDetection\obj\Debug\TextDetection.csprojResolveAssemblyReference.cache
+C:\Users\user\Source\Repos\WalletKeeper10\TextDetection\obj\Debug\TextDetectionSample.exe
+C:\Users\user\Source\Repos\WalletKeeper10\TextDetection\obj\Debug\TextDetectionSample.pdb
+C:\Users\Polina\Source\Repos\WalletKeeper4\TextDetection\bin\Debug\TextDetectionSample.exe.config
+C:\Users\Polina\Source\Repos\WalletKeeper4\TextDetection\bin\Debug\TextDetectionSample.exe
+C:\Users\Polina\Source\Repos\WalletKeeper4\TextDetection\bin\Debug\TextDetectionSample.pdb
+C:\Users\Polina\Source\Repos\WalletKeeper4\TextDetection\bin\Debug\TextDetectionSample.exe.CodeAnalysisLog.xml
+C:\Users\Polina\Source\Repos\WalletKeeper4\TextDetection\bin\Debug\TextDetectionSample.exe.lastcodeanalysissucceeded
+C:\Users\Polina\Source\Repos\WalletKeeper4\TextDetection\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Polina\Source\Repos\WalletKeeper4\TextDetection\bin\Debug\Google.Apis.Auth.dll
+C:\Users\Polina\Source\Repos\WalletKeeper4\TextDetection\bin\Debug\Google.Apis.dll
+C:\Users\Polina\Source\Repos\WalletKeeper4\TextDetection\bin\Debug\Google.Apis.PlatformServices.dll
+C:\Users\Polina\Source\Repos\WalletKeeper4\TextDetection\bin\Debug\Microsoft.VisualStudio.QualityTools.Common.dll
+C:\Users\Polina\Source\Repos\WalletKeeper4\TextDetection\bin\Debug\Microsoft.VisualStudio.QualityTools.ExecutionCommon.dll
+C:\Users\Polina\Source\Repos\WalletKeeper4\TextDetection\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Polina\Source\Repos\WalletKeeper4\TextDetection\bin\Debug\Google.Apis.pdb
+C:\Users\Polina\Source\Repos\WalletKeeper4\TextDetection\bin\Debug\Google.Apis.xml
+C:\Users\Polina\Source\Repos\WalletKeeper4\TextDetection\bin\Debug\Google.Apis.Auth.pdb
+C:\Users\Polina\Source\Repos\WalletKeeper4\TextDetection\bin\Debug\Google.Apis.PlatformServices.pdb
+C:\Users\Polina\Source\Repos\WalletKeeper4\TextDetection\bin\Debug\Google.Apis.PlatformServices.xml
+C:\Users\Polina\Source\Repos\WalletKeeper4\TextDetection\bin\Debug\ru\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+C:\Users\Polina\Source\Repos\WalletKeeper4\TextDetection\obj\Debug\TextDetection.csprojResolveAssemblyReference.cache
+C:\Users\Polina\Source\Repos\WalletKeeper4\TextDetection\obj\Debug\TextDetectionSample.exe
+C:\Users\Polina\Source\Repos\WalletKeeper4\TextDetection\obj\Debug\TextDetectionSample.pdb
+C:\Users\Алексей\Desktop\WalletKeeper-master\TextDetection\bin\Debug\TextDetectionSample.exe.config
+C:\Users\Алексей\Desktop\WalletKeeper-master\TextDetection\bin\Debug\TextDetectionSample.exe
+C:\Users\Алексей\Desktop\WalletKeeper-master\TextDetection\bin\Debug\TextDetectionSample.pdb
+C:\Users\Алексей\Desktop\WalletKeeper-master\TextDetection\bin\Debug\TextDetectionSample.exe.CodeAnalysisLog.xml
+C:\Users\Алексей\Desktop\WalletKeeper-master\TextDetection\bin\Debug\TextDetectionSample.exe.lastcodeanalysissucceeded
+C:\Users\Алексей\Desktop\WalletKeeper-master\TextDetection\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Алексей\Desktop\WalletKeeper-master\TextDetection\bin\Debug\Google.Apis.Auth.dll
+C:\Users\Алексей\Desktop\WalletKeeper-master\TextDetection\bin\Debug\Google.Apis.Auth.PlatformServices.dll
+C:\Users\Алексей\Desktop\WalletKeeper-master\TextDetection\bin\Debug\Google.Apis.Core.dll
+C:\Users\Алексей\Desktop\WalletKeeper-master\TextDetection\bin\Debug\Google.Apis.dll
+C:\Users\Алексей\Desktop\WalletKeeper-master\TextDetection\bin\Debug\Google.Apis.PlatformServices.dll
+C:\Users\Алексей\Desktop\WalletKeeper-master\TextDetection\bin\Debug\Google.Apis.Storage.v1.dll
+C:\Users\Алексей\Desktop\WalletKeeper-master\TextDetection\bin\Debug\Google.Apis.Vision.v1.dll
+C:\Users\Алексей\Desktop\WalletKeeper-master\TextDetection\bin\Debug\log4net.dll
+C:\Users\Алексей\Desktop\WalletKeeper-master\TextDetection\bin\Debug\Microsoft.VisualStudio.QualityTools.Common.dll
+C:\Users\Алексей\Desktop\WalletKeeper-master\TextDetection\bin\Debug\Microsoft.VisualStudio.QualityTools.ExecutionCommon.dll
+C:\Users\Алексей\Desktop\WalletKeeper-master\TextDetection\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Алексей\Desktop\WalletKeeper-master\TextDetection\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Алексей\Desktop\WalletKeeper-master\TextDetection\bin\Debug\Google.Apis.xml
+C:\Users\Алексей\Desktop\WalletKeeper-master\TextDetection\bin\Debug\Google.Apis.Auth.xml
+C:\Users\Алексей\Desktop\WalletKeeper-master\TextDetection\bin\Debug\Google.Apis.Core.xml
+C:\Users\Алексей\Desktop\WalletKeeper-master\TextDetection\bin\Debug\Google.Apis.Storage.v1.xml
+C:\Users\Алексей\Desktop\WalletKeeper-master\TextDetection\bin\Debug\Google.Apis.Vision.v1.xml
+C:\Users\Алексей\Desktop\WalletKeeper-master\TextDetection\bin\Debug\log4net.xml
+C:\Users\Алексей\Desktop\WalletKeeper-master\TextDetection\bin\Debug\Microsoft.VisualStudio.QualityTools.Common.xml
+C:\Users\Алексей\Desktop\WalletKeeper-master\TextDetection\bin\Debug\Microsoft.VisualStudio.QualityTools.ExecutionCommon.xml
+C:\Users\Алексей\Desktop\WalletKeeper-master\TextDetection\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Алексей\Desktop\WalletKeeper-master\TextDetection\bin\Debug\ru\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+C:\Users\Алексей\Desktop\WalletKeeper-master\TextDetection\obj\Debug\TextDetection.csprojResolveAssemblyReference.cache
+C:\Users\Алексей\Desktop\WalletKeeper-master\TextDetection\obj\Debug\TextDetectionSample.exe
+C:\Users\Алексей\Desktop\WalletKeeper-master\TextDetection\obj\Debug\TextDetectionSample.pdb
+C:\Users\Алексей\Desktop\telegram-bot\TextDetection\bin\Debug\TextDetectionSample.exe.config
+C:\Users\Алексей\Desktop\telegram-bot\TextDetection\bin\Debug\TextDetectionSample.exe
+C:\Users\Алексей\Desktop\telegram-bot\TextDetection\bin\Debug\TextDetectionSample.pdb
+C:\Users\Алексей\Desktop\telegram-bot\TextDetection\bin\Debug\TextDetectionSample.exe.CodeAnalysisLog.xml
+C:\Users\Алексей\Desktop\telegram-bot\TextDetection\bin\Debug\TextDetectionSample.exe.lastcodeanalysissucceeded
+C:\Users\Алексей\Desktop\telegram-bot\TextDetection\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Алексей\Desktop\telegram-bot\TextDetection\bin\Debug\Google.Apis.Auth.dll
+C:\Users\Алексей\Desktop\telegram-bot\TextDetection\bin\Debug\Google.Apis.Auth.PlatformServices.dll
+C:\Users\Алексей\Desktop\telegram-bot\TextDetection\bin\Debug\Google.Apis.Core.dll
+C:\Users\Алексей\Desktop\telegram-bot\TextDetection\bin\Debug\Google.Apis.dll
+C:\Users\Алексей\Desktop\telegram-bot\TextDetection\bin\Debug\Google.Apis.PlatformServices.dll
+C:\Users\Алексей\Desktop\telegram-bot\TextDetection\bin\Debug\Google.Apis.Storage.v1.dll
+C:\Users\Алексей\Desktop\telegram-bot\TextDetection\bin\Debug\Google.Apis.Vision.v1.dll
+C:\Users\Алексей\Desktop\telegram-bot\TextDetection\bin\Debug\log4net.dll
+C:\Users\Алексей\Desktop\telegram-bot\TextDetection\bin\Debug\Microsoft.VisualStudio.QualityTools.Common.dll
+C:\Users\Алексей\Desktop\telegram-bot\TextDetection\bin\Debug\Microsoft.VisualStudio.QualityTools.ExecutionCommon.dll
+C:\Users\Алексей\Desktop\telegram-bot\TextDetection\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Алексей\Desktop\telegram-bot\TextDetection\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Алексей\Desktop\telegram-bot\TextDetection\bin\Debug\Google.Apis.xml
+C:\Users\Алексей\Desktop\telegram-bot\TextDetection\bin\Debug\Google.Apis.Auth.xml
+C:\Users\Алексей\Desktop\telegram-bot\TextDetection\bin\Debug\Google.Apis.Core.xml
+C:\Users\Алексей\Desktop\telegram-bot\TextDetection\bin\Debug\Google.Apis.Storage.v1.xml
+C:\Users\Алексей\Desktop\telegram-bot\TextDetection\bin\Debug\Google.Apis.Vision.v1.xml
+C:\Users\Алексей\Desktop\telegram-bot\TextDetection\bin\Debug\log4net.xml
+C:\Users\Алексей\Desktop\telegram-bot\TextDetection\bin\Debug\Microsoft.VisualStudio.QualityTools.Common.xml
+C:\Users\Алексей\Desktop\telegram-bot\TextDetection\bin\Debug\Microsoft.VisualStudio.QualityTools.ExecutionCommon.xml
+C:\Users\Алексей\Desktop\telegram-bot\TextDetection\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Алексей\Desktop\telegram-bot\TextDetection\bin\Debug\ru\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+C:\Users\Алексей\Desktop\telegram-bot\TextDetection\obj\Debug\TextDetection.csprojResolveAssemblyReference.cache
+C:\Users\Алексей\Desktop\telegram-bot\TextDetection\obj\Debug\TextDetectionSample.exe
+C:\Users\Алексей\Desktop\telegram-bot\TextDetection\obj\Debug\TextDetectionSample.pdb
+C:\Users\Алексей\Desktop\Курсач по БД\telegram-bot\TextDetection\bin\Debug\TextDetectionSample.exe.config
+C:\Users\Алексей\Desktop\Курсач по БД\telegram-bot\TextDetection\bin\Debug\TextDetectionSample.exe
+C:\Users\Алексей\Desktop\Курсач по БД\telegram-bot\TextDetection\bin\Debug\TextDetectionSample.pdb
+C:\Users\Алексей\Desktop\Курсач по БД\telegram-bot\TextDetection\bin\Debug\TextDetectionSample.exe.CodeAnalysisLog.xml
+C:\Users\Алексей\Desktop\Курсач по БД\telegram-bot\TextDetection\bin\Debug\TextDetectionSample.exe.lastcodeanalysissucceeded
+C:\Users\Алексей\Desktop\Курсач по БД\telegram-bot\TextDetection\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Алексей\Desktop\Курсач по БД\telegram-bot\TextDetection\bin\Debug\Google.Apis.Auth.dll
+C:\Users\Алексей\Desktop\Курсач по БД\telegram-bot\TextDetection\bin\Debug\Google.Apis.Auth.PlatformServices.dll
+C:\Users\Алексей\Desktop\Курсач по БД\telegram-bot\TextDetection\bin\Debug\Google.Apis.Core.dll
+C:\Users\Алексей\Desktop\Курсач по БД\telegram-bot\TextDetection\bin\Debug\Google.Apis.dll
+C:\Users\Алексей\Desktop\Курсач по БД\telegram-bot\TextDetection\bin\Debug\Google.Apis.PlatformServices.dll
+C:\Users\Алексей\Desktop\Курсач по БД\telegram-bot\TextDetection\bin\Debug\Google.Apis.Storage.v1.dll
+C:\Users\Алексей\Desktop\Курсач по БД\telegram-bot\TextDetection\bin\Debug\Google.Apis.Vision.v1.dll
+C:\Users\Алексей\Desktop\Курсач по БД\telegram-bot\TextDetection\bin\Debug\log4net.dll
+C:\Users\Алексей\Desktop\Курсач по БД\telegram-bot\TextDetection\bin\Debug\Microsoft.VisualStudio.QualityTools.Common.dll
+C:\Users\Алексей\Desktop\Курсач по БД\telegram-bot\TextDetection\bin\Debug\Microsoft.VisualStudio.QualityTools.ExecutionCommon.dll
+C:\Users\Алексей\Desktop\Курсач по БД\telegram-bot\TextDetection\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Алексей\Desktop\Курсач по БД\telegram-bot\TextDetection\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Алексей\Desktop\Курсач по БД\telegram-bot\TextDetection\bin\Debug\Google.Apis.xml
+C:\Users\Алексей\Desktop\Курсач по БД\telegram-bot\TextDetection\bin\Debug\Google.Apis.Auth.xml
+C:\Users\Алексей\Desktop\Курсач по БД\telegram-bot\TextDetection\bin\Debug\Google.Apis.Core.xml
+C:\Users\Алексей\Desktop\Курсач по БД\telegram-bot\TextDetection\bin\Debug\Google.Apis.Storage.v1.xml
+C:\Users\Алексей\Desktop\Курсач по БД\telegram-bot\TextDetection\bin\Debug\Google.Apis.Vision.v1.xml
+C:\Users\Алексей\Desktop\Курсач по БД\telegram-bot\TextDetection\bin\Debug\log4net.xml
+C:\Users\Алексей\Desktop\Курсач по БД\telegram-bot\TextDetection\bin\Debug\Microsoft.VisualStudio.QualityTools.Common.xml
+C:\Users\Алексей\Desktop\Курсач по БД\telegram-bot\TextDetection\bin\Debug\Microsoft.VisualStudio.QualityTools.ExecutionCommon.xml
+C:\Users\Алексей\Desktop\Курсач по БД\telegram-bot\TextDetection\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Алексей\Desktop\Курсач по БД\telegram-bot\TextDetection\bin\Debug\ru\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+C:\Users\Алексей\Desktop\Курсач по БД\telegram-bot\TextDetection\obj\Debug\TextDetection.csprojResolveAssemblyReference.cache
+C:\Users\Алексей\Desktop\Курсач по БД\telegram-bot\TextDetection\obj\Debug\TextDetectionSample.exe
+C:\Users\Алексей\Desktop\Курсач по БД\telegram-bot\TextDetection\obj\Debug\TextDetectionSample.pdb

@@ -1,0 +1,55 @@
+C:\Users\Polina\Desktop\Result\WalletKeeper-master\DataBase\bin\Debug\DataBase.exe.config
+C:\Users\Polina\Desktop\Result\WalletKeeper-master\DataBase\bin\Debug\DataBase.exe
+C:\Users\Polina\Desktop\Result\WalletKeeper-master\DataBase\bin\Debug\DataBase.pdb
+C:\Users\Polina\Desktop\Result\WalletKeeper-master\DataBase\obj\Debug\DataBase.csprojResolveAssemblyReference.cache
+C:\Users\Polina\Desktop\Result\WalletKeeper-master\DataBase\obj\Debug\DataBase.exe
+C:\Users\Polina\Desktop\Result\WalletKeeper-master\DataBase\obj\Debug\DataBase.pdb
+C:\Users\Polina\Desktop\Новая папка\Result\WalletKeeper-master\DataBase\bin\Debug\DataBase.exe.config
+C:\Users\Polina\Desktop\Новая папка\Result\WalletKeeper-master\DataBase\bin\Debug\DataBase.exe
+C:\Users\Polina\Desktop\Новая папка\Result\WalletKeeper-master\DataBase\bin\Debug\DataBase.pdb
+C:\Users\Polina\Desktop\Новая папка\Result\WalletKeeper-master\DataBase\obj\Debug\DataBase.csprojResolveAssemblyReference.cache
+C:\Users\Polina\Desktop\Новая папка\Result\WalletKeeper-master\DataBase\obj\Debug\DataBase.exe
+C:\Users\Polina\Desktop\Новая папка\Result\WalletKeeper-master\DataBase\obj\Debug\DataBase.pdb
+C:\Users\user\Desktop\Result\WalletKeeper-master\DataBase\obj\Debug\DataBase.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\Result\WalletKeeper-master\DataBase\obj\Debug\DataBase.exe
+C:\Users\user\Desktop\Result\WalletKeeper-master\DataBase\obj\Debug\DataBase.pdb
+C:\Users\user\Desktop\Result\WalletKeeper-master\DataBase\bin\Debug\DataBase.exe.config
+C:\Users\user\Desktop\Result\WalletKeeper-master\DataBase\bin\Debug\DataBase.exe
+C:\Users\user\Desktop\Result\WalletKeeper-master\DataBase\bin\Debug\DataBase.pdb
+C:\Users\user\Desktop\ResultA\WalletKeeper-master\DataBase\bin\Debug\DataBase.exe.config
+C:\Users\user\Desktop\ResultA\WalletKeeper-master\DataBase\bin\Debug\DataBase.exe
+C:\Users\user\Desktop\ResultA\WalletKeeper-master\DataBase\bin\Debug\DataBase.pdb
+C:\Users\user\Desktop\ResultA\WalletKeeper-master\DataBase\obj\Debug\DataBase.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\ResultA\WalletKeeper-master\DataBase\obj\Debug\DataBase.exe
+C:\Users\user\Desktop\ResultA\WalletKeeper-master\DataBase\obj\Debug\DataBase.pdb
+C:\Users\user\Source\Repos\WalletKeeper9\DataBase\bin\Debug\DataBase.exe.config
+C:\Users\user\Source\Repos\WalletKeeper9\DataBase\bin\Debug\DataBase.exe
+C:\Users\user\Source\Repos\WalletKeeper9\DataBase\bin\Debug\DataBase.pdb
+C:\Users\user\Source\Repos\WalletKeeper9\DataBase\obj\Debug\DataBase.csprojResolveAssemblyReference.cache
+C:\Users\user\Source\Repos\WalletKeeper9\DataBase\obj\Debug\DataBase.exe
+C:\Users\user\Source\Repos\WalletKeeper9\DataBase\obj\Debug\DataBase.pdb
+C:\Users\user\Source\Repos\WalletKeeper10\DataBase\bin\Debug\DataBase.exe.config
+C:\Users\user\Source\Repos\WalletKeeper10\DataBase\bin\Debug\DataBase.exe
+C:\Users\user\Source\Repos\WalletKeeper10\DataBase\bin\Debug\DataBase.pdb
+C:\Users\user\Source\Repos\WalletKeeper10\DataBase\obj\Debug\DataBase.csprojResolveAssemblyReference.cache
+C:\Users\user\Source\Repos\WalletKeeper10\DataBase\obj\Debug\DataBase.exe
+C:\Users\user\Source\Repos\WalletKeeper10\DataBase\obj\Debug\DataBase.pdb
+C:\Users\Polina\Source\Repos\WalletKeeper4\DataBase\bin\Debug\DataBase.exe.config
+C:\Users\Polina\Source\Repos\WalletKeeper4\DataBase\bin\Debug\DataBase.exe
+C:\Users\Polina\Source\Repos\WalletKeeper4\DataBase\bin\Debug\DataBase.pdb
+C:\Users\Polina\Source\Repos\WalletKeeper4\DataBase\obj\Debug\DataBase.csprojResolveAssemblyReference.cache
+C:\Users\Polina\Source\Repos\WalletKeeper4\DataBase\obj\Debug\DataBase.exe
+C:\Users\Polina\Source\Repos\WalletKeeper4\DataBase\obj\Debug\DataBase.pdb
+C:\Users\Алексей\Desktop\WalletKeeper-master\DataBase\bin\Debug\DataBase.exe.config
+C:\Users\Алексей\Desktop\WalletKeeper-master\DataBase\bin\Debug\DataBase.exe
+C:\Users\Алексей\Desktop\WalletKeeper-master\DataBase\bin\Debug\DataBase.pdb
+C:\Users\Алексей\Desktop\WalletKeeper-master\DataBase\obj\Debug\DataBase.exe
+C:\Users\Алексей\Desktop\WalletKeeper-master\DataBase\obj\Debug\DataBase.pdb
+C:\Users\Алексей\Desktop\Курсач по БД\telegram-bot\DataBase\bin\Debug\DataBase.exe.config
+C:\Users\Алексей\Desktop\Курсач по БД\telegram-bot\DataBase\bin\Debug\DataBase.exe
+C:\Users\Алексей\Desktop\Курсач по БД\telegram-bot\DataBase\bin\Debug\DataBase.pdb
+C:\Users\Алексей\Desktop\Курсач по БД\telegram-bot\DataBase\bin\Debug\Npgsql.dll
+C:\Users\Алексей\Desktop\Курсач по БД\telegram-bot\DataBase\obj\Debug\DataBase.csprojResolveAssemblyReference.cache
+C:\Users\Алексей\Desktop\Курсач по БД\telegram-bot\DataBase\obj\Debug\DataBase.exe
+C:\Users\Алексей\Desktop\Курсач по БД\telegram-bot\DataBase\obj\Debug\DataBase.pdb
+C:\Users\Алексей\Desktop\Курсач по БД\telegram-bot\DataBase\bin\Debug\Mono.Security.dll
